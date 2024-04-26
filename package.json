@@ -1,0 +1,32 @@
+{
+  "name": "studio-accelerate",
+  "version": "1.0.0",
+  "description": "Supercharge your AI development workflow in Node.js with tools optimized for Google AI Studio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/studio-accelerate.git"
+  },
+  "keywords": [
+    "AI",
+    "Node.js",
+    "Google AI Studio",
+    "AutoML",
+    "dataset preparation",
+    "experiment optimization",
+    "AI deployment",
+    "performance monitoring"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/studio-accelerate/issues"
+  },
+  "homepage": "https://github.com/yourusername/studio-accelerate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
